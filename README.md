@@ -48,7 +48,7 @@
     <img src="https://skillicons.dev/icons?i=github&theme=light" />
   </a> --->
 
-  <a href="https://www.linkedin.com/in/thanmai-sai-22a052211/">
+  <a href="https://www.linkedin.com/in/nithin-b-m-7b853b173/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://twitter.com/Thanmaisai3">
