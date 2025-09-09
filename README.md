@@ -41,21 +41,3 @@
 ## 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nithin%20B%20M-blue?logo=linkedin)](https://www.linkedin.com/in/nithin-b-m-7b853b173/)
-<p align="center">
-  <!--- <img src="https://komarev.com/ghpvc/?username=thanmaisai&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/> --->
-  
-  <!--- <a href="https://github.com/thanmaisai">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" />
-  </a> --->
-
-  <a href="https://www.linkedin.com/in/nithin-b-m-7b853b173/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://twitter.com/Thanmaisai3">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <!--- <a href="https://www.instagram.com/thanmaisai/"><img src="https://skillicons.dev/icons?i=instagram" /></a> --->
-  <a href="https://www.behance.net/thanmaisai1">
-    <img width="50px" src="https://www.citypng.com/public/uploads/preview/-31622230508g447n6ajjf.png"/>
-  </a>
-</p>
