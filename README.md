@@ -77,7 +77,10 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/nithinbm/nithinbm/blob/output/github-contribution-grid-snake.svg)  
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nit17/Nit17/output/github-contribution-grid-snake-dark.svg" />
+	<img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Nit17/Nit17/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
@@ -85,7 +88,3 @@
 _"AI won’t replace humans, but humans with AI will replace humans without AI."_  
 
 ---
-
-## 💬 Let’s Connect
-💡 Ask me about **Agentic AI, Generative AI, or ML Engineering**  
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/nithin-b-m-7b853b173) | [Email](mailto:nithinbm17@gmail.com)  
