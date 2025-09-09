@@ -72,3 +72,6 @@
 ## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nithinbm&label=Profile%20views&color=0e75b6&style=flat)  
+
+
+![snake gif](https://github.com/nithinbm/nithinbm/blob/output/github-contribution-grid-snake.svg)
