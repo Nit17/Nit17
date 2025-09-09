@@ -73,5 +73,19 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nithinbm&label=Profile%20views&color=0e75b6&style=flat)  
 
+---
 
-![snake gif](https://github.com/nithinbm/nithinbm/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/nithinbm/nithinbm/blob/output/github-contribution-grid-snake.svg)  
+
+---
+
+## 💡 Quote I Live By
+_"AI won’t replace humans, but humans with AI will replace humans without AI."_  
+
+---
+
+## 💬 Let’s Connect
+💡 Ask me about **Agentic AI, Generative AI, or ML Engineering**  
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/nithin-b-m-7b853b173) | [Email](mailto:nithinbm17@gmail.com)  
