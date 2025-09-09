@@ -39,6 +39,8 @@
 -->
 
 ## 🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nithin%20B%20M-blue?logo=linkedin)](https://www.linkedin.com/in/nithin-b-m-7b853b173/)
 <p align="center">
   <!--- <img src="https://komarev.com/ghpvc/?username=thanmaisai&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/> --->
   
