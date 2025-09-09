@@ -10,15 +10,17 @@ on:
 
 jobs:
   build:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate snake SVG
+    - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: Nit17
+      github_user_name: nithinbm
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -28,5 +30,8 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
+          fqdn: ''
+          force_orphan: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
