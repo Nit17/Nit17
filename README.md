@@ -14,7 +14,7 @@ ML researcher focused on Agentic AI, Generative AI, and Context Engineering. Exp
 
 ---
 
-## 💼 Experience
+## 💼 Experience 
 
 - **GenAI Engineer** — Ascendion (AAVA Platform), Hyderabad _(July 2025 – Present)_
   - Conducting AI/ML research for AAVA, Ascendion’s agentic AI platform, embedding autonomous, context-aware agents into the software development lifecycle.
