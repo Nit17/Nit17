@@ -9,7 +9,7 @@
 ---
 
 ## 🌟 About Me
-- 🎓 Pursuing **M.E. in Big Data Analytics** @ Manipal School of Information Sciences (CGPA: 8.63/10)  
+- 🎓 **M.E. in Big Data Analytics** @ Manipal School of Information Sciences (CGPA: 8.63/10)  
 - 💼 Currently a **GenAI Engineer @ Ascendion (AAVA Platform)** – building **ReAct & AutoGPT-inspired architectures** with memory and reasoning loops.  
 - 💡 Previously a **Data Engineer Intern @ Statsby Solutions** and **Consultant @ Bristlecone**, solving real-world problems in **healthcare automation** and **supply chain AI assistants**.  
 - 📍 Based in **Bengaluru, India**  
