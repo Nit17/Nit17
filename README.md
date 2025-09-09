@@ -63,9 +63,9 @@
 
 ---
 
-## 📈 Contribution Graph
+<!-- ## 📈 Contribution Graph
 
-[![Nithin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nithinbm&bg_color=0d1117&color=79fe96&line=79fe96&point=ffffff&area=true&hide_border=true)](https://github.com/nit17)  
+[![Nithin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nithinbm&bg_color=0d1117&color=79fe96&line=79fe96&point=ffffff&area=true&hide_border=true)](https://github.com/nit17)   -->
 
 ---
 
