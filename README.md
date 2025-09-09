@@ -1,43 +1,67 @@
 <div align="center">
 
+# Nithin B M
 
-# Hi, <img src="ezgif.com-gif-maker.gif" width="25px"> I'm Nithin B M
+**Data Scientist & AI/ML Research Engineer**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+AI%2FML+Research+Engineer;Agentic+AI+%7C+Generative+AI+%7C+Context+Engineering;Building+Intelligent+Systems)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nithin%20B%20M-blue?logo=linkedin)](https://www.linkedin.com/in/nithin-b-m-7b853b173/)
 
-[![Click here to visit portfolio](Thanmai_Sai_.png)](https://nit17.github.io/Nit17/)
+---
 
+## 👋 About Me
 
-## My GitHub Stats
-<div align="center">
+ML researcher focused on Agentic AI, Generative AI, and Context Engineering. Experienced in developing autonomous, reasoning-capable agents using foundation models. Skilled in prompt engineering, RAG, and building intelligent systems with contextual understanding and adaptive behavior.
 
-<!---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanmaisai&show_icons=true&hide_border=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=thanmaisai&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
---->
+---
+
+## 💼 Experience
+
+- **GenAI Engineer** — Ascendion (AAVA Platform), Hyderabad _(July 2025 – Present)_
+  - Conducting AI/ML research for AAVA, Ascendion’s agentic AI platform, embedding autonomous, context-aware agents into the software development lifecycle.
+  - Designing tool-using agents for code generation, bug detection, testing, and documentation; integrated across enterprise-grade DevOps workflows.
+  - Building ReAct- and AutoGPT-inspired agentic architectures with memory, feedback, and reasoning loops to improve decision-making over time.
+
+- **Data Engineer Intern** — Statsby Solutions, Pune _(Aug 2024 – May 2025)_
+  - Built OpenAI-powered chatbots and LLM-based pipelines (AWS → PostgreSQL) for anonymized data automation in healthcare.
+
+- **Consultant** — Bristlecone, Bengaluru _(Oct 2021 – Mar 2024)_
+  - Delivered ML solutions and AI assistants for demand planning, SQL debugging, and workflow simulation using Oracle Demantra and Kinaxis.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Programming:** Python, R, SQL
+- **ML Frameworks:** Scikit-learn, TensorFlow, PyTorch, XGBoost, FastAPI
+- **GenAI & Agents:** LangChain, LangGraph, LlamaIndex, Prompt Engineering, Context Engineering, RAG
+- **Foundation Models:** Transformers, Diffusers, OpenAI, Claude
+- **Data Processing:** Pandas, NumPy, HF Datasets
+- **Databases:** PostgreSQL, MySQL, MongoDB, FAISS, Pinecone
+- **Cloud Platforms:** AWS (S3, EC2), Azure
+- **Version Control & CI/CD:** Git, GitLab CI/CD
+
+---
+
+## 🚀 Projects
+
+- **Customized Scrapy Framework:** Built a modular automation pipeline using Scrapy to streamline web data collection.
+- **Power BI Dashboard for Student Performance:** Created dashboards to visualize academic trends for strategic analysis.
+- **SVD-Initialized K-Means:** Improved recommendation clustering through dimensionality-aware centroid initialization.
+
+---
+
+## 🎓 Education
+
+- **M.E. Big Data Analytics** — Manipal School of Information Sciences, Manipal _(2023 – 2025)_
+  - GPA: 8.63 / 10.00
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nit17&show_icons=true&hide_border=true&theme=cobalt&count_private=true&bg_color=00000000" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Nit17&theme=cobalt&hide_border=true&background=00000000" alt="GitHub Streak" width="48%" />
 </p>
 
-
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanmaisai&layout=compact&theme=radical&hide_border=true) -->
-
 </div>
-
-<!--
-## 🐍 Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/thanmaisai/thanmaisai/blob/output/github-contribution-grid-snake.gif)
--->
-
-<!--
-## 📈 Activity Graph
-[![Thanmai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thanmaisai&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
-
-## 🌐 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nithin%20B%20M-blue?logo=linkedin)](https://www.linkedin.com/in/nithin-b-m-7b853b173/)
