@@ -43,14 +43,6 @@
 
 ---
 
-## 📌 Featured Projects
-- 🕷️ **Customized Scrapy Framework** → Built modular web data automation pipelines  
-- 📊 **Power BI Student Dashboard** → Interactive visual analytics for academic insights  
-- 🤖 **SVD-Initialized K-Means** → Enhanced clustering for recommender systems  
-- ⚙️ **Agentic AI Pipelines** → Tool-using LLM agents for **code generation, debugging & testing**  
-
----
-
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-b-m-7b853b173)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nithinbm17@gmail.com)  
@@ -58,5 +50,25 @@
 ---
 
 ## ⚡ GitHub Stats
+
 ![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithinbm&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinbm&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=nithinbm&theme=tokyonight&hide_border=false)  
+
+---
+
+## 🏆 GitHub Achievements
+
+![trophy](https://github-profile-trophy.vercel.app/?username=nithinbm&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=6)  
+
+---
+
+## 📈 Contribution Graph
+
+[![Nithin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nithinbm&bg_color=0d1117&color=79fe96&line=79fe96&point=ffffff&area=true&hide_border=true)](https://github.com/nithinbm)  
+
+---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=nithinbm&label=Profile%20views&color=0e75b6&style=flat)  
