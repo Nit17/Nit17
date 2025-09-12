@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nithin B M  
 
-🚀 **Data Scientist | AI/ML Research Engineer | GenAI Enthusiast**  
+🚀 **AI/ML Researcher & Architect | Generative AI & Agentic AI Innovator**  
 
 🔹 Focused on **Agentic AI**, **Generative AI**, and **Context Engineering**  
 🔹 Experienced in building **autonomous, reasoning-capable agents**  
