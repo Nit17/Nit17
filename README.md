@@ -66,15 +66,6 @@
 
 ---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nit17/Nit17/output/snake-dark.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Nit17/Nit17/output/snake-light.svg" style="max-width: 920px; width: 100%;" />
-  </picture>
-</div>
-
----
-
 ![Followers](https://img.shields.io/github/followers/Nit17?style=social)
 ![Stars](https://img.shields.io/github/stars/Nit17?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
