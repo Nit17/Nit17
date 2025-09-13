@@ -69,15 +69,15 @@
 ## Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/Nit17/Nit17">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nit17&repo=Nit17&theme=tokyonight&show_owner=true&hide_border=false" alt="Nit17 repo" />
+  <a href="https://github.com/Nit17/Cross-Source-Record-Linking">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nit17&repo=Cross-Source-Record-Linking&theme=tokyonight&show_owner=true&hide_border=false" alt="Cross-Source-Record-Linking" />
   </a>
-  
-  <!-- Duplicate or add more pinned repos below by changing the repo= parameter -->
-  <!-- Example: -->
-  <!-- <a href="https://github.com/Nit17/some-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nit17&repo=some-repo&theme=tokyonight&show_owner=true&hide_border=false" alt="some-repo" />
-  </a> -->
+  <a href="https://github.com/Nit17/Law-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nit17&repo=Law-Application&theme=tokyonight&show_owner=true&hide_border=false" alt="Law-Application" />
+  </a>
+  <a href="https://github.com/Nit17/Email-Behavior-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nit17&repo=Email-Behavior-Detection&theme=tokyonight&show_owner=true&hide_border=false" alt="Email-Behavior-Detection" />
+  </a>
 </p>
 
 ---
