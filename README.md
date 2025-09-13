@@ -66,6 +66,22 @@
 
 ---
 
+## Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/Nit17/Nit17">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nit17&repo=Nit17&theme=tokyonight&show_owner=true&hide_border=false" alt="Nit17 repo" />
+  </a>
+  
+  <!-- Duplicate or add more pinned repos below by changing the repo= parameter -->
+  <!-- Example: -->
+  <!-- <a href="https://github.com/Nit17/some-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nit17&repo=some-repo&theme=tokyonight&show_owner=true&hide_border=false" alt="some-repo" />
+  </a> -->
+</p>
+
+---
+
 ![Followers](https://img.shields.io/github/followers/Nit17?style=social)
 ![Stars](https://img.shields.io/github/stars/Nit17?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
