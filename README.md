@@ -1,5 +1,7 @@
 # Hi, I'm Nithin B M  
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=900&color=7DF9FF&width=900&lines=AI%2FML+Researcher+%26+Architect;Generative+AI+%26+Agentic+AI+Innovator;Agentic+AI+%7C+RAG+%7C+LLMOps;Building+autonomous+reasoning+agents)
+
 **AI/ML Researcher & Architect | Generative AI & Agentic AI Innovator**  
 
 - Focused on **Agentic AI**, **Generative AI**, and **Context Engineering**  
@@ -59,6 +61,25 @@
 
 ---
 
+## Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nit17&theme=tokyonight&no-bg=true&no-frame=true&column=6)
+
+---
+
+## Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nit17&theme=tokyo-night)
+
+---
+
+## Contribution Snake
+
+![Snake light](https://raw.githubusercontent.com/Nit17/Nit17/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake dark](https://raw.githubusercontent.com/Nit17/Nit17/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+---
+
 ## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nithinbm&label=Profile%20views&color=0e75b6&style=flat)  
@@ -66,4 +87,4 @@
 ---
 
 ## Quote I Live By
-*"AI won’t replace humans, but humans with AI will replace humans without AI."*  
+*"AI won’t replace humans, but humans with AI will replace humans without AI."*
