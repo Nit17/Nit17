@@ -52,35 +52,36 @@
 
 ---
 
-
 ![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nit17&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nit17&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Nit17&theme=tokyonight&hide_border=false)  
 
 ---
 
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nit17&theme=tokyonight&no-bg=true&no-frame=true&column=6)
 
 ---
-
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nit17&theme=tokyo-night)
 
 ---
 
-
-![Snake light](https://raw.githubusercontent.com/Nit17/Nit17/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Snake dark](https://raw.githubusercontent.com/Nit17/Nit17/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nit17/Nit17/output/snake-dark.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Nit17/Nit17/output/snake-light.svg" style="max-width: 920px; width: 100%;" />
+  </picture>
+  
+  <!-- Optional alternate style: aurora -->
+  <!-- <img alt="Snake Aurora" src="https://raw.githubusercontent.com/Nit17/Nit17/output/snake-aurora.svg" style="max-width: 920px; width: 100%; margin-top: 8px;" /> -->
+</div>
 
 ---
-
 
 ![Followers](https://img.shields.io/github/followers/Nit17?style=social)
 ![Stars](https://img.shields.io/github/stars/Nit17?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ---
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nit17&label=Profile%20views&color=0e75b6&style=flat)  
 

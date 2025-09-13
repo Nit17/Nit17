@@ -27,15 +27,15 @@ jobs:
         with:
           github_user_name: Nit17
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake-light.svg?palette=github-light
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-aurora.svg?color_snake=#7df9ff&color_dots=#1a1b27,#5a5b70,#a6accd,#c3e88d,#89ddff
+            dist/snake-purple.svg?color_snake=#b388ff&color_dots=#161b22,#30363d,#484f58,#7d8590,#a371f7
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-          # Optional but recommended to keep output branch clean
-          # keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
