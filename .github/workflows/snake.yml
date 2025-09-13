@@ -8,6 +8,13 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
+concurrency:
+  group: snake-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -28,5 +35,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          # Optional but recommended to keep output branch clean
+          # keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
