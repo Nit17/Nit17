@@ -59,12 +59,6 @@
 
 ---
 
-## GitHub Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=nithinbm&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=6)  
-
----
-
 ## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nithinbm&label=Profile%20views&color=0e75b6&style=flat)  
