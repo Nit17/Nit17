@@ -64,7 +64,7 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nit17&theme=tokyo-night)
 
----
+<!-- ---
 
 ## Pinned Repositories
 
@@ -78,7 +78,7 @@
   <a href="https://github.com/Nit17/Email-Behavior-Detection">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nit17&repo=Email-Behavior-Detection&theme=tokyonight&show_owner=true&hide_border=false" alt="Email-Behavior-Detection" />
   </a>
-</p>
+</p> -->
 
 ---
 
