@@ -28,7 +28,7 @@ jobs:
           node-version: 20
 
       - name: Generate 3D contribution images
-        uses: yoshi389111/github-profile-3d-contrib@v0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         with:
           username: ${{ github.repository_owner }}
         env:
