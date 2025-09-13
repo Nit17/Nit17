@@ -71,9 +71,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nit17/Nit17/output/snake-dark.svg" />
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Nit17/Nit17/output/snake-light.svg" style="max-width: 920px; width: 100%;" />
   </picture>
-  
-  <!-- Optional alternate style: aurora -->
-  <!-- <img alt="Snake Aurora" src="https://raw.githubusercontent.com/Nit17/Nit17/output/snake-aurora.svg" style="max-width: 920px; width: 100%; margin-top: 8px;" /> -->
 </div>
 
 ---
