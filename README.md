@@ -80,6 +80,25 @@
 
 ---
 
+## 3D Contributions
+
+![3D profile](https://raw.githubusercontent.com/Nit17/Nit17/output/profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
+## Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## Badges
+
+![Followers](https://img.shields.io/github/followers/Nit17?style=social)
+![Stars](https://img.shields.io/github/stars/Nit17?affiliations=OWNER%2CCOLLABORATOR&style=social)
+
+---
+
 ## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nit17&label=Profile%20views&color=0e75b6&style=flat)  

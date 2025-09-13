@@ -1,0 +1,36 @@
+name: 3D Contributions
+
+on:
+  schedule:
+    - cron: "0 1 * * *" # Daily at 01:00 UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-3d-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate 3D contribution images
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          username: ${{ github.repository_owner }}
+
+      - name: Publish 3D images to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
