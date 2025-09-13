@@ -47,13 +47,11 @@
 
 ---
 
-## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-b-m-7b853b173)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nithinbm17@gmail.com)  
 
 ---
 
-## GitHub Stats
 
 ![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nit17&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nit17&layout=compact&theme=tokyonight)  
@@ -61,37 +59,31 @@
 
 ---
 
-## Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nit17&theme=tokyonight&no-bg=true&no-frame=true&column=6)
 
 ---
 
-## Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nit17&theme=tokyo-night)
 
 ---
 
-## Contribution Snake
 
 ![Snake light](https://raw.githubusercontent.com/Nit17/Nit17/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake dark](https://raw.githubusercontent.com/Nit17/Nit17/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
-## Badges
 
 ![Followers](https://img.shields.io/github/followers/Nit17?style=social)
 ![Stars](https://img.shields.io/github/stars/Nit17?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ---
 
-## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nit17&label=Profile%20views&color=0e75b6&style=flat)  
 
 ---
 
-## Quote I Live By
 *"AI won’t replace humans, but humans with AI will replace humans without AI."*
