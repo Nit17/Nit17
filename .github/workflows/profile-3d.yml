@@ -22,10 +22,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Setup Node (for canvas deps)
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
       - name: Generate 3D contribution images
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@v0.7.1
         with:
           username: ${{ github.repository_owner }}
+          # Optional: customize
+          # commit_message: "chore: update 3D contributions"
 
       - name: Publish 3D images to output branch
         uses: crazy-max/ghaction-github-pages@v4
