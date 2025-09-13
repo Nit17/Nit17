@@ -80,12 +80,6 @@
 
 ---
 
-## 3D Contributions
-
-![3D profile](https://raw.githubusercontent.com/Nit17/Nit17/output/profile-3d-contrib/profile-night-rainbow.svg)
-
----
-
 ## Badges
 
 ![Followers](https://img.shields.io/github/followers/Nit17?style=social)
