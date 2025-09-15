@@ -50,7 +50,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-b-m-7b853b173)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nithinbm17@gmail.com)  
 
----
+<!-- ---
 
 ![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nit17&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nit17&layout=compact&theme=tokyonight)  
@@ -62,7 +62,7 @@
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nit17&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nit17&theme=tokyo-night) -->
 
 <!-- ---
 
