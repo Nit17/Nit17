@@ -50,38 +50,20 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-b-m-7b853b173)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nithinbm17@gmail.com)  
 
--- ---
-
-
-![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nit17&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nit17&theme=tokyonight&hide_border=false)  
-
-
-<!---
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nit17&theme=tokyonight&no-bg=true&no-frame=true&column=6)
-
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nit17&theme=tokyo-night) -->
+-- Optional: Uncomment to show general stats and languages
+![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nit17&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nit17&layout=compact&theme=tokyonight)
+-->
 
-<!-- ---
 
-## Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/Nit17/Cross-Source-Record-Linking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nit17&repo=Cross-Source-Record-Linking&theme=tokyonight&show_owner=true&hide_border=false" alt="Cross-Source-Record-Linking" />
-  </a>
-  <a href="https://github.com/Nit17/Law-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nit17&repo=Law-Application&theme=tokyonight&show_owner=true&hide_border=false" alt="Law-Application" />
-  </a>
-  <a href="https://github.com/Nit17/Email-Behavior-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nit17&repo=Email-Behavior-Detection&theme=tokyonight&show_owner=true&hide_border=false" alt="Email-Behavior-Detection" />
-  </a>
-</p> -->
+  <img src="https://streak-stats.demolab.com?user=Nit17&theme=tokyonight&hide_border=false" alt="GitHub Streak for Nit17" />
+</p>
 
----
+
 
 ![Followers](https://img.shields.io/github/followers/Nit17?style=social)
 ![Stars](https://img.shields.io/github/stars/Nit17?affiliations=OWNER%2CCOLLABORATOR&style=social)
