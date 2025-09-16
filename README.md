@@ -60,7 +60,12 @@
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nit17&theme=tokyonight&hide_border=false" alt="GitHub Streak for Nit17" />
+  <a href="https://streak-stats.demolab.com?user=Nit17&theme=tokyonight&hide_border=false">
+    <img src="https://streak-stats.demolab.com?user=Nit17&theme=tokyonight&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak for Nit17" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://streak-stats.demolab.com?user=Nit17">Open streak card directly if not visible</a>
 </p>
 
 ---
