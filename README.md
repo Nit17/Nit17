@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 - **M.E. in Big Data Analytics** @ Manipal School of Information Sciences (CGPA: 8.63/10)  
 - Currently a **GenAI Engineer @ Ascendion (AAVA Platform)** – building ReAct & AutoGPT-inspired architectures with memory and reasoning loops.  
 - Previously a **Data Engineer Intern @ Statsby Solutions** and **Consultant @ Bristlecone**, solving real-world problems in healthcare automation and supply chain AI assistants.  
@@ -47,30 +47,19 @@
 
 ---
 
-## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-b-m-7b853b173)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nithinbm17@gmail.com)  
 
 ---
 
-## 📊 GitHub Stats
 
 ![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nit17&show_icons=true&theme=tokyonight&cache_seconds=86400)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nit17&layout=compact&theme=tokyonight&cache_seconds=86400)  
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <a href="https://streak-stats.demolab.com?user=Nit17&theme=tokyonight&hide_border=false">
-    <img src="https://streak-stats.demolab.com?user=Nit17&theme=tokyonight&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak for Nit17" />
-  </a>
-</p>
-
 ---
 
-## ⭐ GitHub Socials
 ![Followers](https://img.shields.io/github/followers/Nit17?style=social)
 ![Stars](https://img.shields.io/github/stars/Nit17?affiliations=OWNER%2CCOLLABORATOR&style=social)  
 ![Profile Views](https://komarev.com/ghpvc/?username=Nit17&label=Profile%20views&color=0e75b6&style=flat)  
