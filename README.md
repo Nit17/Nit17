@@ -52,10 +52,9 @@
 
 ---
 
--- Optional: Uncomment to show general stats and languages
 ![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nit17&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nit17&layout=compact&theme=tokyonight)
--->
+
 
 
 
