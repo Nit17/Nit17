@@ -56,19 +56,6 @@
 ![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nit17&show_icons=true&theme=tokyonight&cache_seconds=86400)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nit17&layout=compact&theme=tokyonight&cache_seconds=86400)  
 
----
-
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com?user=Nit17&theme=radical&hide_border=true&border_radius=12&card_width=500&background=0D1117&ring=FF8C00&fire=FF4500&currStreakLabel=FFD700&dates=9FEF00" 
-      alt=" GitHub Streak for Nit17"
-    />
-  </a>
-</p>
-
----
 
 ![Followers](https://img.shields.io/github/followers/Nit17?style=social)
 ![Stars](https://img.shields.io/github/stars/Nit17?affiliations=OWNER%2CCOLLABORATOR&style=social)  
