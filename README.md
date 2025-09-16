@@ -52,9 +52,10 @@
 
 -- ---
 
+
 ![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nit17&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nit17&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Nit17&theme=tokyonight&hide_border=false)  
+
 
 <!---
 
