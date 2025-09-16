@@ -52,11 +52,18 @@
 
 ---
 
-![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nit17&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nit17&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nit17&theme=tokyonight&hide_border=false)  
+## GitHub Stats
 
+![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nit17&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nit17&layout=compact&theme=tokyonight&cache_seconds=86400)
 
+## GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nit17&theme=tokyonight&hide_border=false" alt="GitHub Streak for Nit17" />
+</p>
+
+---
 
 ![Followers](https://img.shields.io/github/followers/Nit17?style=social)
 ![Stars](https://img.shields.io/github/stars/Nit17?affiliations=OWNER%2CCOLLABORATOR&style=social)
