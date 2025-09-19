@@ -46,6 +46,13 @@
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
+<div align="center">
+
+[![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nit17&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/Nit17)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nit17&layout=compact&theme=radical&hide_border=true)](https://github.com/Nit17)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nit17&theme=radical&hide_border=true)](https://github.com/Nit17)
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-b-m-7b853b173)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nithinbm17@gmail.com)  
