@@ -67,9 +67,6 @@
   </a>
 </p>
 
-[![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nit17&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/Nit17)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nit17&layout=compact&theme=radical&hide_border=true)](https://github.com/Nit17)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nit17&theme=radical&hide_border=true)](https://github.com/Nit17)
 
 </div>
 
