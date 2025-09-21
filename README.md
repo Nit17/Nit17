@@ -46,7 +46,26 @@
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Nit17">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nit17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  </a>
+  <a href="https://github.com/Nit17">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nit17&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Nit17">
+    <img src="https://streak-stats.demolab.com?user=Nit17&theme=tokyonight&hide_border=true" height="170"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Nit17">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nit17&theme=tokyo-night&hide_border=true" height="250"/>
+  </a>
+</p>
 
 [![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nit17&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/Nit17)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nit17&layout=compact&theme=radical&hide_border=true)](https://github.com/Nit17)
