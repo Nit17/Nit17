@@ -60,18 +60,10 @@
 
 <p align="center">
   <a href="https://github.com/Nit17">
-    <img src="https://streak-stats.demolab.com?user=Nit17&theme=tokyonight&hide_border=true" height="170"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nit17&theme=tokyonight&hide_border=true" height="170"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Nit17">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nit17&theme=tokyo-night&hide_border=true" height="250"/>
-  </a>
-</p>
-
-
-</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-b-m-7b853b173)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nithinbm17@gmail.com)  
