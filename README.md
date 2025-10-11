@@ -49,7 +49,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 
 ---
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Nit17">
     <img src="https://github-readme-stats.vercel.app/api?username=Nit17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
   </a>
@@ -68,7 +68,7 @@
   <a href="https://github.com/Nit17">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nit17&theme=tokyo-night&hide_border=true" height="250"/>
   </a>
-</p>
+</p> -->
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-b-m-7b853b173)  
