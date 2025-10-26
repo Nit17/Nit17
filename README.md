@@ -2,7 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=900&color=7DF9FF&width=900&lines=AI%2FML+Researcher+%26+Architect;Generative+AI+%26+Agentic+AI+Innovator;Agentic+AI+%7C+RAG+%7C+LLMOps;Building+autonomous+reasoning+agents)
 
-**AI/ML Researcher & Architect | Generative AI & Agentic AI Innovator**  
 
 *"AI won’t replace humans, but humans with AI will replace humans without AI."*
 
